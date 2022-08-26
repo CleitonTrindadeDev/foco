@@ -1,0 +1,12 @@
+{
+  "dados": [
+    {
+      "id": 1,
+      "acomodacao": null,
+      "checkin": null,
+      "checkout": null,
+      "hospedes": null,
+      "criancas": null
+    }
+  ]
+}
